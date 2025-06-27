@@ -25,3 +25,6 @@ O modelo LSTM é uma arquitetura de rede neural recorrente (RNN) que se destaca 
 ## Resultados
 
 O notebook `LSTM.ipynb` gerará um gráfico comparando os preços reais das ações do Google com os preços previstos pelo modelo LSTM para o período de teste. A linha vermelha representa os preços reais e a linha azul representa as previsões.
+
+
+![Image](https://github.com/user-attachments/assets/62e279d1-e77e-4776-a611-9c9f638ae958)
